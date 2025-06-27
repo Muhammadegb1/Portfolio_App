@@ -1,5 +1,11 @@
-About the Project
-This is a full-stack portfolio website.
-It was built using React for the frontend, Node.js and Express for the backend, and PostgreSQL for the database.
-The website is fully responsive and presents our skills, experience, and selected projects.
-It is deployed on Render, and we actively maintain and improve it by adding new features, updating content, and enhancing performance.
+📌 About the Project
+This is a full-stack portfolio website developed by two Computer Science students as a practical showcase of our technical and creative skills.
+
+Built with React (frontend), Node.js + Express (backend), and PostgreSQL (database).
+
+Fully responsive design to present our skills, experience, and projects across all devices.
+
+Deployed on Render, ensuring availability and performance.
+
+We are actively maintaining and improving the project by adding new features, updating content, and refining the user experience.
+
