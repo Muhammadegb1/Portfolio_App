@@ -1,4 +1,3 @@
-💼 Danial Trody — Developer Portfolio
 
 Welcome to my personal portfolio website! This project showcases my background, skills, and development work. It includes my resume, featured projects, and a contact form, along with a tech news section and admin login for content management.
 
@@ -94,13 +93,3 @@ Manage tech stack icons
 🛡️ Security Note
 Sensitive credentials (like database passwords) are not stored in the repo.
 
-
-🧠 Future Improvements
-Add file uploads for projects and media
-
-
-🙋‍♂️ About Me
-I'm Danial Trody, a final-year Computer Science student passionate about web development, cybersecurity, and building high-performance applications.
-
-📧 Email: trody2001@gmail.com
-🔗 GitHub: danialtrody
