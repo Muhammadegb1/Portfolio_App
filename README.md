@@ -46,16 +46,4 @@ HTML | CSS | JavaScript
 
 ---
 
-## 📦 Project Structure
-Portfolio/
-├── Client/
-│ ├── Components/
-│ ├── pages/
-│ └── App.jsx
-├── Server/
-│ ├── server.js
-│ └── db.js
-├── README.md
-└── package.json
-
 
